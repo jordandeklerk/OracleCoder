@@ -1,5 +1,8 @@
 # OracleCoder: Enhancing Text-to-SQL Generation with QLoRA+ Ensemble
 
+![OracleCoder Project Overview](https://lh7-us.googleusercontent.com/-Iq7iSxlbWcuknHTHnSciqt4IWLron0NqaSjd6i5m1lKEh3mT7etf6pkPTOC7VovZY3RG8nE60nj21_fLfCBn0xYN2n6IXByVtg708LkOQLy3RlfUOfT7TgRh1WlV_01LjPOLUP4uGxHiEl1cxHiLPk)
+
+
 > **NOTE:** This project is on-going. The results here are not complete. Stay tuned for future updates on the evaluation of OracleCoder.
 
 OracleCoder is a cutting-edge project aimed at advancing text-to-SQL generation capabilities. It leverages a novel approach, combining schema linking and SQL generation tasks, to fine-tune open-source language models efficiently. This project introduces an innovative ensemble method using QLoRA+ to achieve high performance while addressing data privacy and cost concerns, democratizing access to state-of-the-art text-to-SQL technologies.
