@@ -1,6 +1,6 @@
 # OracleCoder: Enhancing Text-to-SQL Generation with QLoRA+ Ensemble
 
-![OracleCoder Project Overview](https://arxiv.org/html/2402.05120v1/x1.png)
+<img src="https://arxiv.org/html/2402.05120v1/x1.png" width="100%" height="450px"></img>
 
 
 > **NOTE:** This project is on-going. The results here are not complete. Stay tuned for future updates on the evaluation of OracleCoder.
